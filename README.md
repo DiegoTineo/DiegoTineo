@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/diego-tineo-4a0526137/?trk=opento_sprofile_details)" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-tineo-4a0526137/?trk=opento_sprofile_details" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
