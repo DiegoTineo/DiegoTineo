@@ -4,7 +4,7 @@
 
 ---
 
-![Banner Image]([URL_DE_LA_IMAGEN](https://media.licdn.com/dms/image/D4D16AQG5yGWfgFD9KA/profile-displaybackgroundimage-shrink_200_800/0/1720655872276?e=1726099200&v=beta&t=U2u16usAyjUdVlhykNTcDZNuXazL-HDr6qN-JqZXOnk))
+![Banner Image]([URL_DE_LA_IMAGEN]([https://media.licdn.com/dms/image/D4D16AQG5yGWfgFD9KA/profile-displaybackgroundimage-shrink_200_800/0/1720655872276?e=1726099200&v=beta&t=U2u16usAyjUdVlhykNTcDZNuXazL-HDr6qN-JqZXOnk](https://media.licdn.com/dms/image/D4D16AQG5yGWfgFD9KA/profile-displaybackgroundimage-shrink_200_800/0/1720655872276?e=1726099200&v=beta&t=U2u16usAyjUdVlhykNTcDZNuXazL-HDr6qN-JqZXOnk)))
 
 <p align="center">
   <a href="[LINKEDIN_URL](https://www.linkedin.com/in/diego-tineo-4a0526137/?trk=opento_sprofile_details)" target="_blank">
