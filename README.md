@@ -34,4 +34,4 @@ const diego= {
 
 ## Project management API
 
-<a href="https://github.com/DiegoTineo/dt-project-management"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/DiegoTineo/dt-project-management"><img src="pm.png" style="height: 60%; width:60%;"/></a>
