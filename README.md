@@ -29,3 +29,9 @@ const diego= {
   others: ["DDD", "MVC" ],
   hobbies: ["Reading", "Football", "Music", "Learn"]
 }
+```
+# Current hobby project
+
+## Project management API
+
+<a href="https://github.com/DiegoTineo/dt-project-management"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" style="height: 60%; width:60%;"/></a>
