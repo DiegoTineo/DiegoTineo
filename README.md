@@ -66,7 +66,7 @@ const diego = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Michi Place</h3>
+      <h3 align="center">API CRUD with JWT</h3>
       <h5 align="center">💻 Python | FastAPI | SQLAlchemy | Uvicorn</h5>  
       <div align="center">
         <a href="https://github.com/DiegoTineo/dt-project-management" target="_blank">
