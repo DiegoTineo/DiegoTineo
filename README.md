@@ -54,9 +54,6 @@ const diego = {
           <a href="https://github.com/DiegoTineo/michi-place" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <!-- <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a> -->
         </p>
         <p>
           Frontend development project designed to practice using <strong>NextAuth</strong> and the <strong>Google authentication</strong> provider. Through an intuitive interface, this project allows simulating a personalized and secure authentication experience. <strong>Objective</strong>: Consolidate knowledge about authentication and improve skills with NextAuth.
@@ -67,7 +64,7 @@ const diego = {
   <tr>
     <td width="50%">
       <h3 align="center">GO RestAPI CRUD </h3>
-      <h5 align="center">💻 Golang | PostgreSQL | GORM | MUX ...</h5>  
+      <h5 align="center">💻 Golang | PostgreSQL | GORM ...</h5>  
       <div align="center">
         <a href="https://github.com/DiegoTineo/go-gorm-restapi" target="_blank">
           <img src="go.png" width="400" alt="Curso básico android">
@@ -76,12 +73,29 @@ const diego = {
           <a href="https://github.com/DiegoTineo/go-gorm-restapi" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <!-- <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a> -->
         </p>
         <p>
           A backend project developed with <strong>Golang</strong> and <strong>PostgreSQL</strong>. The project implements a <strong>REST API</strong> with CRUD operations for a PostgreSQL database. The <strong>GORM</strong> library is used to interact with the database. <strong>Objective</strong>: Practice the development of a REST API with Golang and PostgreSQL.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> AFTIM POS</h3>
+      <h5 align="center">💻 React | MUI | Apollo | RHF ...</h5>  
+      <div align="center">
+        <a href="https://aftim.app/" target="_blank">
+          <img src="pos.png" width="400" alt="Curso básico android">
+        </a>
+        <p>
+          <a href="https://aftim.app/" target="_blank">
+           Website
+          </a>
+        </p>
+        <p>
+          <strong>Current Work:</strong> 
+          A frontend project developed with <strong>React</strong> and <strong>MUI</strong>. The project implements a <strong>Point of Sale (POS)</strong> system with a modern and intuitive interface.
         </p>
       </div>
     </td>
@@ -98,9 +112,6 @@ const diego = {
           <a href="https://github.com/DiegoTineo/dt-project-management" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <!-- <a href="" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-          </a> -->
         </p>
         <p>
           A backend hands-on project utilizing <strong>FastAPI</strong>, <strong>SQLAlchemy</strong>, and <strong>JWT</strong>. Build a <strong>REST API</strong> with CRUD operations for a MySQL database and implement <strong>user authentication</strong>.
