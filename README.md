@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/DiegoTineo">Diego</a> 👋</h1>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQG5yGWfgFD9KA/profile-displaybackgroundimage-shrink_200_800/0/1720655872276?e=1726099200&v=beta&t=U2u16usAyjUdVlhykNTcDZNuXazL-HDr6qN-JqZXOnk">
+  <img src="por.png">
 </div>
 
 <p align="center">
@@ -66,7 +66,29 @@ const diego = {
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">API CRUD with JWT</h3>
+      <h3 align="center">GO RestAPI CRUD </h3>
+      <h5 align="center">💻 Golang | PostgreSQL | GORM | MUX ...</h5>  
+      <div align="center">
+        <a href="https://github.com/DiegoTineo/go-gorm-restapi" target="_blank">
+          <img src="go.png" width="400" alt="Curso básico android">
+        </a>
+        <p>
+          <a href="https://github.com/DiegoTineo/go-gorm-restapi" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <!-- <a href="" target="_blank">
+            <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+          </a> -->
+        </p>
+        <p>
+          A backend project developed with <strong>Golang</strong> and <strong>PostgreSQL</strong>. The project implements a <strong>REST API</strong> with CRUD operations for a PostgreSQL database. The <strong>GORM</strong> library is used to interact with the database. <strong>Objective</strong>: Practice the development of a REST API with Golang and PostgreSQL.
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">API CRUD With JWT</h3>
       <h5 align="center">💻 Python | FastAPI | SQLAlchemy | Uvicorn</h5>  
       <div align="center">
         <a href="https://github.com/DiegoTineo/dt-project-management" target="_blank">
